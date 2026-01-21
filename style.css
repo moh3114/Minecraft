@@ -73,8 +73,9 @@
     background-color: white;
     height: 25%;
     width: 25%;
-    border-radius: 100%;
+    border-radius: 20%;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .right-column {
